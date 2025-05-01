@@ -375,8 +375,8 @@ function showHelp() {
 	$('#helpScreen').fadeToggle(150, "linear");
 }
 
-(function(){
-    	var script = document.createElement('script');
-	script.src = 'http://hextris.io/a.js';
-	document.head.appendChild(script);
-})()
+// (function(){
+//     	var script = document.createElement('script');
+// 	script.src = 'http://hextris.io/a.js';
+// 	document.head.appendChild(script);
+// })()
